@@ -57,4 +57,4 @@ This project helped develop practical skills in:
 
 Shah Muhit
 
-Avionics and Electronics & Communication Engineering Student
+Avionics Engineering Student
